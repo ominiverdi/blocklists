@@ -1,0 +1,8 @@
+# Title: ominiverdi/blocklist/vscode
+#
+# This hosts come from observing Pihole activities
+# Very aggressive against Orbi's authomatic connections to home base
+#
+# Date: 04 June 2023 
+
+0.0.0.0 www.netgear.com
